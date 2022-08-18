@@ -1,2 +1,2 @@
 # CovidModel
-Model of covid epidemic in Matlab :(
+A model to simulate the further development of the Covid pandemic in Iceland based on real data
